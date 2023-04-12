@@ -10,6 +10,8 @@ Monitor everything & analyze it with A.I.:
 - other IoT Devices: user's Approximate location using wireless signal Triangulation. also more cameras & mic's
 - Wireless network: and Router's Kernel logs in real time - Ensure their connection's secure
 
-It's essentially a "SCIF at Home!" over a VPN
+## Goal:
+It's essentially a Virtual "SCIF at Home!" over a VPN
 
 https://www.google.com/search?q=scif+room
+https://en.wikipedia.org/wiki/Sensitive_compartmented_information_facility
